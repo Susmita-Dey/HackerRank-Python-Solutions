@@ -6,8 +6,10 @@ Read two integers from STDIN, `a` and `b`. Add code to print three lines where:
 1. The third line contains the product of the two numbers.<br>
 
 ### Example
-`a = 3`<br>
-`b = 5`<br><br>
+```
+a = 3
+b = 5
+```
 Print the following:
 > 8<br>
 > -2<br>
