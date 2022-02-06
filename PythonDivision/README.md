@@ -25,7 +25,7 @@ The second line contains the second integer, `b`.
 Print the two lines as described above.
 
 ### Sample Input 0
-> 4
+> 4<br>
 > 3
 
 ### Sample Output 0
